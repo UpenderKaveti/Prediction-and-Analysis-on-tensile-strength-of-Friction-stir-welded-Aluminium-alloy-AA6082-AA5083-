@@ -1,5 +1,7 @@
 # Prediction-and-Analysis-on-tensile-strength-of-Friction-stir-welded-Aluminium-alloy-AA6082-AA5083-
 
+Developed by @UpenderKaveti
+
 # Description
 Friction stir welding technique was considered to produce weldments with promising strengths. Owing to the minimum set of parameters only to be controlled during welding, this green welding technology contains noticeable advantages over other welding techniques. As the world of Artificial Intelligence is taking great leaps, the application of machine learning is serving as a great advantage in several research domains. This repository focuses on comparing different ensemble learning based boosting approaches and implementing an optimum regression model for predicting the tensile strength which was trained upon the experimented data along with the analysis comprehending the influence of parameters involved during the process of welding with the concept of explainable AI.
 
